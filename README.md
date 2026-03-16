@@ -27,8 +27,15 @@ RUL values are transformed into 4 condition categories for comparison and evalua
 ## Repository Structure
 ```text
 CMPSC-463-PROJECT---Jooyoung-Yoo/
-├── data/                                   # dataset files
-├── src/                                    # source code for algorithms and analysis
-├── main.py                                 # main entry point
-├── CMPSC 463 Project - Jooyoung Yoo.pdf    # final report
-└── README.md
+data/                                   # dataset files
+src/                                    # source code for algorithms and analysis
+main.py                                 # main entry point
+CMPSC 463 Project - Jooyoung Yoo.pdf    # final report
+README.md
+
+## How to Run
+
+1. Make sure Python 3 is installed.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/jooyyoungyoo/CMPSC-463-PROJECT---Jooyoung-Yoo.git

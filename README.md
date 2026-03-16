@@ -32,8 +32,8 @@ src/                                    # source code for algorithms and analysi
 main.py                                 # main entry point
 CMPSC 463 Project - Jooyoung Yoo.pdf    # final report
 README.md
-
 ```
+
 ## How to Run
 
 1. Make sure Python 3 is installed.

@@ -1,7 +1,7 @@
 # CMPSC 463 Project — Jooyoung Yoo
 
 ## Project Overview
-This project was completed for **CMPSC 463: Design and Analysis of Algorithms**.  
+**CMPSC 463: Design and Analysis of Algorithms**.  
 The goal is to analyze a real-world **Water Pump RUL (Remaining Useful Life)** dataset using algorithmic techniques rather than machine learning libraries.
 
 The project focuses on the following algorithmic tasks:
